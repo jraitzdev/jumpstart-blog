@@ -1,5 +1,5 @@
 title: Jason Test Blog Template
-email: your-email@domain.com
+email: 
 description: > # this means to ignore newlines until "baseurl:"
   This is a place holder description
 # permalink: ':title/'
@@ -26,7 +26,7 @@ pinterest: # Add your Pinterest handle
 mailchimp: # Add your MailChimp form identifier.
 
 # Disqus
-discus_identifier: mr-brown # Add your discus identifier
+discus_identifier: # Add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
